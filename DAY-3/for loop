@@ -1,0 +1,8 @@
+
+for yamini in (1,2,3,4,5,6) :
+
+# yamini is temp variable
+# in memebership operstor 
+# 123456 is sequence 
+
+     print(yamini)

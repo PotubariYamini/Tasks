@@ -1,0 +1,19 @@
+
+
+a=60
+
+
+if a==a :
+    print('this is if condition')
+
+elif a!=a:
+    print('this is elif')
+
+    if a>=30 :
+      print('this is true')
+
+    else :
+        print('this is inner else')
+
+else :
+    print('this is else condition')

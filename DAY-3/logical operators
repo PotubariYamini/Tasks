@@ -1,0 +1,13 @@
+
+y=50
+h=70
+
+if y<h or h>y :
+      print('this is true ')
+
+elif y>h or h<y :
+    print('this is elif')
+
+else :
+    print('this is else')
+    

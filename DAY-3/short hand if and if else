@@ -1,0 +1,6 @@
+
+
+a=20
+b=70
+
+print('if') if b>a else print('else')

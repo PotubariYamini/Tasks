@@ -1,0 +1,10 @@
+
+sunitha=40
+
+while sunitha<50 :
+       print('this is while', sunitha)
+
+       sunitha+=1 # sunitha = sunitha+1
+
+else:
+    print('this is completed')
